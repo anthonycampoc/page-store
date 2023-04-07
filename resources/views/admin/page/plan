@@ -1,0 +1,12 @@
+@extends('Layouts.admin')
+@section('Title','Store')
+    
+@endsection
+
+@section('styles')
+    
+@endsection
+
+@section('content')
+    
+@endsection
